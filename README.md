@@ -58,5 +58,5 @@ Dự án được tạo ra nhằm loại bỏ những bất tiện của các lo
 ## 5. Sơ đồ khối dự kiến.
 
 <td align="center">
-      <img src="assets/So_do_khoi.png.png" width="400"/><br/>
+      <img src="assets/So_do_khoi.png" width="400"/><br/>
  </td>
