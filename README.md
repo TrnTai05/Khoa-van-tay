@@ -1,5 +1,8 @@
 # Hệ thống khóa cửa thông minh xác thực vân tay
-Trần Trí Tài MSV 23001625
+| Họ và tên | Mã sinh viên |
+| :--- | :---: |
+| Trần Trí Tài| `23001625` |
+  
   Hệ thống giám sát ra vào tự động sử dụng cảm biến vân tay kết hợp vi điều khiển ESP32. Có thể mở khóa từ xa trên điện thoại và đồng thời có thể thêm và loại bỏ vân tay của các thành viên.
 
 ## 1. Tổng quan dự án
