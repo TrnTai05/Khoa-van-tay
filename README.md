@@ -1,5 +1,7 @@
 # Hệ thống khóa cửa thông minh xác thực vân tay
+Trần Trí Tài MSV 23001625
   Hệ thống giám sát ra vào tự động sử dụng cảm biến vân tay kết hợp vi điều khiển ESP32. Có thể mở khóa từ xa trên điện thoại và đồng thời có thể thêm và loại bỏ vân tay của các thành viên.
+
 ## 1. Tổng quan dự án
 - Hệ thống khóa cửa thông minh xác thực vân tay là một giải pháp an ninh kiểm soát ra vào tích hợp công nghệ IoT.
 - Hệ thống cho phép người dùng mở cửa bằng vân tay sinh trắc học, quản lý người dùng và mở cửa từ xa thông qua ứng dụng di động hoặc Web Dashboard.
